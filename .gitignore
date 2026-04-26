@@ -1,0 +1,9 @@
+jms_coord
+jms_console
+jms_pool
+*.o
+jms_in
+jms_out
+pool_*_in
+pool_*_out
+outputs_*
